@@ -1,7 +1,7 @@
 body {
     margin: 50px 0;
     /* backdrop-filter: blur(100px); */
-    background-image: url(/wp2764224.webp);
+    background-image: url(/wp2764224.jpg);
     z-index: 0;
 
     font-family: 'Roboto', sans-serif;
@@ -25,7 +25,7 @@ body {
 }
 .left {
     width: 50%;
-    background: url('/FB_IMG_1729592924585.jpg') no-repeat center center;
+    background: url('/FB_IMG_1729592924585\ \(1\).jpg') no-repeat center center;
     background-size: cover;
     display: flex;
     flex-direction: column;
